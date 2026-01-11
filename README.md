@@ -1,16 +1,16 @@
-## Hi there 👋
+# Selam, Ben Artun! 👋
 
-<!--
-**Artuncakar/Artuncakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Endüstri Mühendisliği öğrencisi olarak süreç optimizasyonu, sistem entegrasyonu ve veri analitiği üzerine odaklanıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Öne Çıkan Projem: Zirai İHA Geliştirme
+Zirai uygulamalar için tasarladığım çok rotorlu İHA projemde mekanik montajdan donanım entegrasyonuna kadar tüm süreçleri yönettim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Drone Projem](https://github.com/Artuncakar/agricultural-uav-system-integration/blob/main/final.jpg?raw=true)
+
+## 🛠 Yetkinliklerim
+* **Mühendislik:** Sistem Entegrasyonu, Yöneylem Araştırması, Üretim Yönetimi
+* **Yazılım & Araçlar:** Python, SQL, MS Office, GitHub
+* **Staj & Deneyim:** TNC Group (Arch of Sigma) - Bilgi Teknolojileri Stajyeri (Ocak 2026 - Şubat 2026)
+
+## 📫 Bana Ulaşın
+* [LinkedIn Profilim](https://www.linkedin.com/in/artuncakar/)
