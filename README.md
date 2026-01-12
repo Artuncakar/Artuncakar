@@ -3,16 +3,19 @@
 </p>
 
 <h3 align="center">Endüstri Mühendisi Adayı | Sistem Entegrasyonu | Süreç Optimizasyonu</h3>
+
 ### 🛠 Yetkinlikler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Engineering](https://img.shields.io/badge/Industrial_Engineering-0078D4?style=for-the-badge&logo=engineering&logoColor=white)
+![Engineering](https://img.shields.io/badge/Industrial_Engineering-0078D4?style=for-the-badge&logo=engineering&logoColor=white
+
 ### 📊 GitHub İstatistiklerim
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Artun's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+</p
+  
 ### 💼 Mevcut Deneyim
 * **TNC Group (Arch of Sigma)** - Bilgi Teknolojileri Stajyeri (Ocak 2026 - Günümüz) 🚀
