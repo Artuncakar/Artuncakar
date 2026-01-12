@@ -8,15 +8,13 @@
   <a href="https://www.linkedin.com/in/artuncakar/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Artuncakar">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-green?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
 
 ### 🚀 Hakkımda
 
+<div align="center">
 
 | 🎯 Odak | ⚡ Öncelik | 🛠 Yaklaşım |
 | :--- | :--- | :--- |
@@ -24,12 +22,16 @@
 | **Veri Analitiği** | Karar Destek Mekanizmaları | Veriye Dayalı Problem Çözme |
 | **Sistem Entegrasyonu** | Sürdürülebilir Operasyon | Dijital Dönüşüm & İHA Sistemleri |
 
+</div>
+
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,solidworks,github,matlab,office,html,css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,excel,solidworks,matlab,github,html,css,office&theme=light" />
+  </a>
 </p>
 
 ---
@@ -45,8 +47,8 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </p>
 
 <p align="center">
