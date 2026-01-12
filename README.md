@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Artuncakar?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-green?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Artuncakar/Artuncakar/blob/main/README.md">
     <img src="https://img.shields.io/badge/PORTFOLIO-PREVIEW-purple?style=for-the-badge&logo=target" />
   </a>
 </p>
