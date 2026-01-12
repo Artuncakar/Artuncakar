@@ -63,3 +63,20 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artuncakar&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 📩 İletişim
+
+<p align="center">
+  <b>Benimle iletişime geçebilirsiniz:</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/artuncakar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:artuncakar5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
