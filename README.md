@@ -20,15 +20,15 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006159.png" width="40"/><br/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-gears-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
       <b>🎯 Odak</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1162/1162456.png" width="40"/><br/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-analysis-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
       <b>⚡ Öncelik</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2092/2092130.png" width="40"/><br/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-production-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
       <b>🛠 Yaklaşım</b>
     </td>
   </tr>
