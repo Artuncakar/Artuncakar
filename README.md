@@ -14,24 +14,30 @@
 
 ### 🚀 Hakkımda
 
-<div align="center">
-
-| 🎯 Odak | ⚡ Öncelik | 🛠 Yaklaşım |
-| :--- | :--- | :--- |
-| **Süreç Optimizasyonu** | Verimlilik & Maksimum Çıktı | Yalın Üretim Metodolojileri |
-| **Veri Analitiği** | Karar Destek Mekanizmaları | Veriye Dayalı Problem Çözme |
-| **Sistem Entegrasyonu** | Sürdürülebilir Operasyon | Dijital Dönüşüm & İHA Sistemleri |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>🎯 Odak</b></td>
+    <td align="center" width="33%"><b>⚡ Öncelik</b></td>
+    <td align="center" width="33%"><b>🛠 Yaklaşım</b></td>
+  </tr>
+  <tr>
+    <td align="center">Süreç Optimizasyonu</td>
+    <td align="center">Verimlilik & Çıktı</td>
+    <td align="center">Yalın Üretim</td>
+  </tr>
+  <tr>
+    <td align="center">Veri Analitiği</td>
+    <td align="center">Karar Destek</td>
+    <td align="center">Veriye Dayalı Çözüm</td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,excel,solidworks,matlab,github,html,css,office&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,excel,solidworks,matlab,github,html,css,office&theme=light" />
 </p>
 
 ---
@@ -39,18 +45,14 @@
 ### 💼 Deneyimler
 
 * 🚀 **TNC Group (Arch of Sigma)** - Bilgi Teknolojileri Stajyeri (Ocak 2026 - Günümüz)
-* 🏭 **Albatur** - Endüstri Mühendisliği Stajyeri (Süreç İyileştirme ve Zaman Etüdü)
-* ⚙️ **HUSS Engineering** - Proje Takımı Üyesi (Zirai İHA Sistem Entegrasyonu & Geliştirme)
+* 🏭 **Albatur** - Endüstri Mühendisliği Stajyeri (Süreç İyileştirme)
+* ⚙️ **HUSS Engineering** - Proje Takımı Üyesi (İHA Sistem Entegrasyonu)
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 İstatistikler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artuncakar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
