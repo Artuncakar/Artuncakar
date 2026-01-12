@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=python,matlab,excel,solidworks,office,github,html,css&theme=light" />
 </p>
 
+
 ---
 
 ### 💼 Deneyimler
