@@ -20,15 +20,15 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-gears-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50"/><br/>
       <b>🎯 Odak</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-analysis-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50"/><br/>
       <b>⚡ Öncelik</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/80/external-production-business-management-flat-flat-juicy-fish.png" width="50"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50"/><br/>
       <b>🛠 Yaklaşım</b>
     </td>
   </tr>
