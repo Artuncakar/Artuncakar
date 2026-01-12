@@ -14,9 +14,9 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Artun'un İstatistikleri](https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" />
