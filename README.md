@@ -4,15 +4,33 @@
 
 <h3 align="center">Endüstri Mühendisi Adayı | Süreç Optimizasyonu & Veri Analitiği</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/artuncakar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Artuncakar">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-green?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
-### 🛠 Yetkinlikler & Araçlar
+### 🚀 Hakkımda
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Industrial Engineering](https://img.shields.io/badge/INDUSTRIAL_ENGINEERING-0078D4?style=for-the-badge&logo=engineering&logoColor=white)
+
+| 🎯 Odak | ⚡ Öncelik | 🛠 Yaklaşım |
+| :--- | :--- | :--- |
+| **Süreç Optimizasyonu** | Verimlilik & Maksimum Çıktı | Yalın Üretim Metodolojileri |
+| **Veri Analitiği** | Karar Destek Mekanizmaları | Veriye Dayalı Problem Çözme |
+| **Sistem Entegrasyonu** | Sürdürülebilir Operasyon | Dijital Dönüşüm & İHA Sistemleri |
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,solidworks,github,matlab,office,html,css" />
+</p>
 
 ---
 
@@ -26,16 +44,11 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artuncakar&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 📫 Bana Ulaşın
-
-* [LinkedIn Profilim](https://www.linkedin.com/in/artuncakar/)
