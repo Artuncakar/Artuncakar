@@ -16,10 +16,11 @@
 
 ---
 
-### 💼 Mevcut Deneyim
+### 💼 Deneyimler
 
 * 🚀 **TNC Group (Arch of Sigma)** - Bilgi Teknolojileri Stajyeri (Ocak 2026 - Günümüz)
-* 🏭 **Endüstri Mühendisliği Projeleri** - Süreç İyileştirme ve Sistem Entegrasyonu
+* 🏭 **Albatur** - Endüstri Mühendisliği Stajyeri (Süreç İyileştirme ve Zaman Etüdü)
+* ⚙️ **HUSS Engineering** - Proje Takımı Üyesi (Zirai İHA Sistem Entegrasyonu & Geliştirme)
 
 ---
 
