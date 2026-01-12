@@ -37,7 +37,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,solidworks,matlab,github,html,css,office&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,excel,solidworks,office,github,html,css&theme=light" />
 </p>
 
 ---
@@ -55,4 +55,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Artuncakar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artuncakar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artuncakar&theme=tokyonight&hide_border=true" />
 </p>
