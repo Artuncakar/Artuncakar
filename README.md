@@ -17,22 +17,18 @@
 
 ### 🚀 Hakkımda
 
----
-
-### 🚀 Hakkımda
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-target-business-management-flat-flat-juicy-fish.png" width="40"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006159.png" width="40"/><br/>
       <b>🎯 Odak</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-lightning-weather-flat-flat-juicy-fish.png" width="40"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1162/1162456.png" width="40"/><br/>
       <b>⚡ Öncelik</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-settings-customer-feedback-flat-flat-juicy-fish.png" width="40"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2092/2092130.png" width="40"/><br/>
       <b>🛠 Yaklaşım</b>
     </td>
   </tr>
@@ -51,9 +47,6 @@
     </td>
   </tr>
 </table>
-
----
-    
 
 ---
 
